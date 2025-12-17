@@ -83,4 +83,4 @@ This project is licensed under the MIT License - See the LICENSE file for detail
 # Contact
 Alex Siegel - https://www.linkedin.com/in/alexsiegel127/ | alexsiegel127@gmail.com
 
-Project Link: [Project Link](https://github.com/alexsiegel127/league-of-legends-match-prediction)
+Project Link: [League of Legends Match Prediction](https://github.com/alexsiegel127/league-of-legends-match-prediction)
