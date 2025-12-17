@@ -24,7 +24,7 @@ Python 3.10 or later is required
 # Installation
 1. Clone the repo
 
-    `git clone github.com`
+    `git clone https://github.com/adrake7/league-of-legends-match-prediction.git`
 
 2. Install Category Encoders packages
 
@@ -83,4 +83,4 @@ This project is licensed under the MIT License - See the LICENSE file for detail
 # Contact
 Alex Siegel - https://www.linkedin.com/in/alexsiegel127/ | alexsiegel127@gmail.com
 
-Project Link: [Project Link](github.com)
+Project Link: [Project Link](https://github.com/adrake7/league-of-legends-match-prediction)
