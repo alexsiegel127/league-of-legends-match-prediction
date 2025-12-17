@@ -81,6 +81,6 @@ Contributions are welcome and greatly appreciated. To contribute, please fork th
 This project is licensed under the MIT License - See the LICENSE file for details.
 
 # Contact
-Alex Siegel - https://www.linkedin.com/in/alexsiegel127/ | alexsiegel127@gmail.com
+Alex Siegel: https://www.linkedin.com/in/alexsiegel127/ | alexsiegel127@gmail.com
 
 Project Link: [League of Legends Match Prediction](https://github.com/alexsiegel127/league-of-legends-match-prediction)
